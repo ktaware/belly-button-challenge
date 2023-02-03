@@ -12,6 +12,7 @@ Use sample_values as the values for the bar chart.
 Use otu_ids as the labels for the bar chart.
 
 Use otu_labels as the hovertext for the chart.
+![hw01](https://user-images.githubusercontent.com/12514249/216697904-aeece908-ac77-4f2e-bca3-c7b7739daaeb.jpg)
 
 # bar Chart
 Create a bubble chart that displays each sample.
@@ -25,19 +26,16 @@ Use sample_values for the marker size.
 Use otu_ids for the marker colors.
 
 Use otu_labels for the text values.
-
-![hw01](https://user-images.githubusercontent.com/12514249/216697904-aeece908-ac77-4f2e-bca3-c7b7739daaeb.jpg)
-
-
+![bubble_chart](https://user-images.githubusercontent.com/12514249/216698830-a674e3a1-8a4f-44a4-9996-d4f79c3a7211.jpg)
 
 # Bubble Chart
 Display the sample metadata, i.e., an individual's demographic information.
 
 Display each key-value pair from the metadata JSON object somewhere on the page.
-
+![hw03](https://user-images.githubusercontent.com/12514249/216698899-3cef4771-f128-4cc7-b2a8-7267482be287.jpg)
 hw
 Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
-
+![hw02](https://user-images.githubusercontent.com/12514249/216698935-5be231ec-ee23-47e0-8a79-d259a1477a5b.jpg)
 hw
 Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
 
@@ -51,6 +49,10 @@ You will need to modify the example gauge code to account for values ranging fro
 Update the chart whenever a new sample is selected.
 
 Weekly Washing Frequency Gauge
+
+![gauge](https://user-images.githubusercontent.com/12514249/216698961-2348be2e-c749-4c07-94ef-cfefef2c8f89.jpg)
+
+
 Hints
 Use console.log inside of your JavaScript code to see what your data looks like at each step.
 
