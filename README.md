@@ -26,6 +26,10 @@ Use otu_ids for the marker colors.
 
 Use otu_labels for the text values.
 
+![hw01](https://user-images.githubusercontent.com/12514249/216697904-aeece908-ac77-4f2e-bca3-c7b7739daaeb.jpg)
+
+
+
 # Bubble Chart
 Display the sample metadata, i.e., an individual's demographic information.
 
