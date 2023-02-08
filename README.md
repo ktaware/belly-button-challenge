@@ -31,7 +31,6 @@ Use otu_labels for the text values.
 
 
 # Display the sample metadata, i.e., an individual's demographic information.
-
 Display each key-value pair from the metadata JSON object somewhere on the page.
 ![hw03](https://user-images.githubusercontent.com/12514249/216698899-3cef4771-f128-4cc7-b2a8-7267482be287.jpg)
 
