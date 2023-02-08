@@ -13,10 +13,6 @@ Use otu_ids as the labels for the bar chart.
 
 Use otu_labels as the hovertext for the chart.
 ![hw01](https://user-images.githubusercontent.com/12514249/216697904-aeece908-ac77-4f2e-bca3-c7b7739daaeb.jpg)
-<<<<<<< HEAD
-
-=======
->>>>>>> 5f935f29a62b75040e9f25ba43c1026e6a654703
 
 # bar Chart
 Create a bubble chart that displays each sample.
@@ -32,18 +28,12 @@ Use otu_ids for the marker colors.
 Use otu_labels for the text values.
 ![bubble_chart](https://user-images.githubusercontent.com/12514249/216698830-a674e3a1-8a4f-44a4-9996-d4f79c3a7211.jpg)
 
-![bubble_chart](https://user-images.githubusercontent.com/12514249/216698830-a674e3a1-8a4f-44a4-9996-d4f79c3a7211.jpg)
-
 # Bubble Chart
 Display the sample metadata, i.e., an individual's demographic information.
 
 Display each key-value pair from the metadata JSON object somewhere on the page.
 ![hw03](https://user-images.githubusercontent.com/12514249/216698899-3cef4771-f128-4cc7-b2a8-7267482be287.jpg)
-<<<<<<< HEAD
-hw
 
-=======
->>>>>>> 5f935f29a62b75040e9f25ba43c1026e6a654703
 hw
 Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
 ![hw02](https://user-images.githubusercontent.com/12514249/216698935-5be231ec-ee23-47e0-8a79-d259a1477a5b.jpg)
@@ -60,10 +50,7 @@ You will need to modify the example gauge code to account for values ranging fro
 Update the chart whenever a new sample is selected.
 
 Weekly Washing Frequency Gauge
-<<<<<<< HEAD
-=======
 
->>>>>>> 5f935f29a62b75040e9f25ba43c1026e6a654703
 ![gauge](https://user-images.githubusercontent.com/12514249/216698961-2348be2e-c749-4c07-94ef-cfefef2c8f89.jpg)
 
 
