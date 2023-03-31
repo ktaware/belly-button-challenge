@@ -3,6 +3,10 @@ Belly Button Biodiversity
 
 The coolest study of biodiversity on the human body on the planet!
 The belly button is one of the habitats closest to us, and yet it remains relatively unexplored. In January 2011, we launched Belly Button Biodiversity to investigate the microbes inhabiting our navels and the factors that might influence the microscopic life calling this protected, moist patch of skin home. In addition to inspiring scientific curiosity, Belly Button Biodiversity inspired conversations about the beneficial roles microbes play in our daily lives.
+![image](https://user-images.githubusercontent.com/12514249/229164494-a21ff24c-9473-4dd1-8fe3-63703e7c107c.png)
+
+we revealed that belly buttons are indeed a jungle of microbial diversity, having detected over 2300 species in those 60 navels! Just eight of those species – we called them oligarchs – were frequent and abundant across the individuals sampled (they were present in more than 70% of people); the remaining species were quite rare, often appearing in just a single navel.
+
 https://ktaware.github.io/belly-button-challenge/
 
 # Instructions
