@@ -6,6 +6,11 @@ The belly button is one of the habitats closest to us, and yet it remains relati
 ![image](https://user-images.githubusercontent.com/12514249/229164494-a21ff24c-9473-4dd1-8fe3-63703e7c107c.png)
 
 we revealed that belly buttons are indeed a jungle of microbial diversity, having detected over 2300 species in those 60 navels! Just eight of those species – we called them oligarchs – were frequent and abundant across the individuals sampled (they were present in more than 70% of people); the remaining species were quite rare, often appearing in just a single navel.
+This paper left us with a head-scratching puzzle: We could predict what species would be most common in a room full of belly buttons (the oligarchs!), but we lacked the ability to predict what species would be present at the level of the individual.
+
+We investigated factors like age, sex, ethnicity, innie vs outie, and frequency of washing – yet none of the factors explained differences in the number and kinds of bacteria we found in a particular person.
+
+So we turned it back to our citizen scientists and asked them to share hypotheses and new factors that deserve further probing. Visit the Explore page to dive in and take a look at the data yourself.
 
 https://ktaware.github.io/belly-button-challenge/
 
